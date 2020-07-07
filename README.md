@@ -1,2 +1,2 @@
-# Data-Interpretation.github.io
+# Data-Interpretation
 This code helps us to interpret through a log file.
